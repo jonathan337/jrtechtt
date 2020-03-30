@@ -1,2 +1,2 @@
-# jrtechtt
+# JRTechTT
 JRTechTT Website
